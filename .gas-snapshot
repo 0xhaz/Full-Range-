@@ -1,0 +1,6 @@
+TestFullRange:test_FullRange_addLiquidity_InitialAddFuzz(uint256) (runs: 256, μ: 1157685, ~: 1036283)
+TestFullRange:test_FullRange_addLiquidity_InitialAddSucceeds() (gas: 1382257)
+TestFullRange:test_FullRange_addLiquidity_SubsequentAdd() (gas: 196833)
+TestFullRange:test_FullRange_addLiquidity_SwapThenAddSucceeds() (gas: 1551376)
+TestFullRange:test_FullRange_beforeInitialize_AllowsPoolCreation() (gas: 1063662)
+TestFullRange:test_FullRange_beforeInitialize_RevertsIfWrongSpacing() (gas: 21430)
